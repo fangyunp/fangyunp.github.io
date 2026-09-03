@@ -1,0 +1,1 @@
+import{o}from"./index.CzOuE2cy.js";import"./index.DFgNvt70.js";import{d as e,p as s,o as c,c as t,_ as a}from"./framework.CAnUr3M0.js";const _={class:"box"},r=e({__name:"basic",setup(n){return console.log("useDemo666 :>> ",o),s(o(666)),(p,m)=>(c(),t("div",_,"999999999999999"))}}),l=a(r,[["__scopeId","data-v-66c084b8"]]);export{l as default};

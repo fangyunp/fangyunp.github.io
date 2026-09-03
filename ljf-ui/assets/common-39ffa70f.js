@@ -1,0 +1,1 @@
+const s=(n,t)=>Object.hasOwn(n,t);function r(n){return JSON.parse(JSON.stringify(n))}const e=["gif","jpg","jpeg","png"];function o(n){const t=n.substring(n.lastIndexOf(".")+1).toLowerCase();return e.includes(t)}export{s as g,r as p,o as u};

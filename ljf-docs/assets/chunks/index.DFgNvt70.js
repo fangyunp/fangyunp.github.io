@@ -1,0 +1,1 @@
+import{q as l,p as c}from"./framework.CAnUr3M0.js";const s=c("default"),d=["ljf-nav-scale__default","ljf-nav-scale__medium","ljf-nav-scale__large"];function f(a){const e=document.getElementById("app")||document.body;d.forEach(t=>e.classList.remove(t)),a&&a!=="default"&&e.classList.add(`ljf-nav-scale__${a}`)}l(()=>s.value,a=>{f(a)},{immediate:!0});

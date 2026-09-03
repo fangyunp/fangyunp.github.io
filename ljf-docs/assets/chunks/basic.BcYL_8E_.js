@@ -1,0 +1,1 @@
+import{o}from"./index.CzOuE2cy.js";import"./index.DFgNvt70.js";import{d as s,p as t,o as a,c,t as n}from"./framework.CAnUr3M0.js";const r={class:"demo"},u=s({__name:"basic",setup(m){console.log("useDemo666 :>> ",o);const e=t(o(666));return(p,i)=>(a(),c("div",r,n(e.value)+"我是demovue文件",1))}});export{u as default};
