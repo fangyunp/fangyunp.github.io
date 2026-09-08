@@ -1,0 +1,1 @@
+import{p as t}from"./utils.BeVK54vV.js";import{p as i,av as v}from"./framework.CAnUr3M0.js";function c(r=!1,n={}){const{truthyValue:l=!0,falsyValue:f=!1}=n,s=v(r),e=i(r);function u(o){if(arguments.length)return e.value=o,e.value;{const a=t(l);return e.value=e.value===a?t(f):a,e.value}}return s?u:[e,u]}export{c as i};

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>知识库已迁到 /ljf-docs/</title>
+<script>
+// 自动生成：scripts/build-site.mjs --target=gh
+// 旧布局把知识库放在站点根，新布局挪进 /ljf-docs/；GitHub Pages 没有 _redirects，
+// 只能在这个 404 页里按原始路径补前缀跳一次。
+var p = location.pathname;
+if (p.indexOf('/ljf-docs/') !== 0) {
+  location.replace('/ljf-docs' + p.replace(/\/+$/, '') + location.search);
+}
+</script>
+</head>
+<body>
+<p>本站根路径已让给导航站，知识库现在位于 <a href="/ljf-docs/">/ljf-docs/</a>。</p>
+</body>
+</html>

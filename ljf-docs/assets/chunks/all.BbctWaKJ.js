@@ -1,0 +1,1 @@
+import{o}from"./index.CzOuE2cy.js";import"./index.DFgNvt70.js";import{d as t,p as a,o as n,c as r,t as s}from"./framework.CAnUr3M0.js";const u=t({__name:"all",setup(l){console.log("useDemo666 :>> ",o);const e=a(o(1));return(c,m)=>(n(),r("div",null,s(e.value)+"9",1))}});export{u as default};
